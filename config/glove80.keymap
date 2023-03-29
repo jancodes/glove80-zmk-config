@@ -167,7 +167,7 @@
             bindings = <
      &trans        &trans        &trans  &trans  &trans                                                                      &trans  &trans     &trans  &trans  &trans
      &trans        &trans        &trans  &trans  &trans  &trans                                                    &trans    &trans  &trans     &trans  &trans  &trans
- &kp C_PLAY    &kp C_PREV    &kp C_NEXT  &trans  &trans  &trans                                                    &trans    &trans  &trans     &trans  &trans  &trans
+ &kp C_PP    &kp C_PREV    &kp C_NEXT  &trans  &trans  &trans                                                    &trans    &trans  &trans     &trans  &trans  &trans
      &trans  &kp C_VOL_DN  &kp C_VOL_UP  &trans  &trans  &trans                                                   &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT &trans &trans
      &trans        &trans        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &copy  &movewindowleft  &movewindowright    &trans    &trans  &trans     &trans  &trans  &trans
      &trans        &trans        &trans  &trans  &trans          &trans  &trans  &trans  &paste  &trans  &trans              &trans  &trans     &trans  &trans  &trans
